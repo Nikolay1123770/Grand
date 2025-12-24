@@ -1,0 +1,5 @@
+TOKEN = "8495248952:AAGuDm-AeeJyWyUJzJtaRqmacmMNg09Jed4"
+
+SERVER_NAME = "Grand Mobile | Phoenix"
+ADMIN_IDS = [8473513085]
+MAX_ADS_PER_DAY = 3
